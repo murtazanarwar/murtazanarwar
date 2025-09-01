@@ -5,7 +5,7 @@
 ## I'm a Full Stack Developer and Competitive Programmer 
 
 - 🌱 I am currently learning more about backend development.
-- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/bardiesel/)
+- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/murtaza-narwarwala/)
 - 😄 Pronouns: He/Him
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/murtazanarwar)
